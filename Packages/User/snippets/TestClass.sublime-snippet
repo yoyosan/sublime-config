@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+class ${1}Test extends TestCase
+{
+    ${2}
+
+    public function setUp()
+    {
+        ${3}
+    }
+    
+    ${4}
+}
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>test</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>

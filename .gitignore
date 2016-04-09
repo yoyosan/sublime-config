@@ -1,0 +1,11 @@
+/*
+!/Packages
+/Packages/*
+!/Packages/User
+/Packages/User/Package\ Control.last-run
+/Packages/User/Package\ Control.ca-list
+/Packages/User/Package\ Control.ca-bundle
+/Packages/User/Package\ Control.system-ca-bundle
+/Packages/User/Package\ Control.cache
+/Packages/User/Package\ Control.ca-certs
+

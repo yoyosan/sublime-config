@@ -1,0 +1,30 @@
+{
+	"always_show_minimap_viewport": false,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Facebook (SL).tmTheme",
+	"fold_buttons": true,
+	"font_face": "Fira Code",
+	"font_options":
+	[
+	],
+	"font_size": 14,
+	"ignored_packages":
+	[
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_numbers": false,
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		120
+	],
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true
+}

@@ -1,0 +1,26 @@
+<snippet>
+    <content><![CDATA[
+    /**
+     * The IoC container instance.
+     *
+     * @var Container
+     */
+    protected \$container;
+
+    /**
+     * Create a new connection factory instance.
+     *
+     * @param  Container  \$container
+     * @return void
+     */
+    public function __construct(Container \$container = null)
+    {
+        \$this->container = \$container;
+    }
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>container</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>

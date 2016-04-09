@@ -1,0 +1,25 @@
+<snippet>
+    <content><![CDATA[
+class ${1}Test extends TestCase
+{
+    /**
+     * @var ${1}
+     */
+    protected ${2};
+
+    public function setUp()
+    {
+        \$this->${3} = new ${4}(
+            \$this->prophesize('Illuminate\Contracts\Container\Container')->reveal()
+        );
+    }
+    
+    ${4}
+}
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>testservice</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>
