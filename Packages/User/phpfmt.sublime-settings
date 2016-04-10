@@ -1,6 +1,6 @@
 {
 	"format_on_save": false,
-	"php_bin": "/usr/bin/php",
+	"php_bin": "php",
 	"psr1": true,
 	"psr1_naming": false,
 	"psr2": true,
