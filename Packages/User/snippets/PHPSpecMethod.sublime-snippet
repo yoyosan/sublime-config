@@ -1,18 +1,12 @@
 <snippet>
     <content><![CDATA[
-class ${1}Test extends PHPUnit_Framework_TestCase
+public function it_${1}()
 {
-    /**
-     * @test
-     */
-    function ${2}
-    {
-
-    }
+    ${2}
 }
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>phpunit</tabTrigger>
+    <tabTrigger>spec</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+    <scope>source.php</scope>
 </snippet>
