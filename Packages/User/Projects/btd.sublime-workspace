@@ -4,6 +4,386 @@
 		"selected_items":
 		[
 			[
+				"getPrettyOffsetFo",
+				"getPrettyOffsetForUserSettings"
+			],
+			[
+				"off",
+				"$offsetFormatted〔variable〕"
+			],
+			[
+				"get",
+				"getPrettyOffsetForView〔function〕"
+			],
+			[
+				"date",
+				"$dateGenerator〔variable〕"
+			],
+			[
+				"time",
+				"$timezoneOffset〔variable〕"
+			],
+			[
+				"nowDa",
+				"$nowDate〔variable〕"
+			],
+			[
+				"user",
+				"userTimezone"
+			],
+			[
+				"tim",
+				"$timezone〔variable〕"
+			],
+			[
+				"sess",
+				"$sessionManager〔variable〕"
+			],
+			[
+				"conta",
+				"$container〔variable〕"
+			],
+			[
+				"default",
+				"$defaultValue〔variable〕"
+			],
+			[
+				"is_n",
+				"is_null〔function〕"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"SETT",
+				"SETTING_PHONE_CODE〔constant〕"
+			],
+			[
+				"defa",
+				"default_phone_code"
+			],
+			[
+				"va",
+				"$value〔variable〕"
+			],
+			[
+				"req",
+				"$request〔variable〕"
+			],
+			[
+				"field",
+				"fieldName"
+			],
+			[
+				"fiel",
+				"fields"
+			],
+			[
+				"impl",
+				"implode〔function〕"
+			],
+			[
+				"ob",
+				"$object〔variable〕"
+			],
+			[
+				"app",
+				"appPreferences〔function〕"
+			],
+			[
+				"dateF",
+				"dateFormatter〔function〕"
+			],
+			[
+				"dateFor",
+				"dateFormat〔variable〕"
+			],
+			[
+				"userPre",
+				"userPrefs"
+			],
+			[
+				"insta",
+				"instanceof〔keyword〕"
+			],
+			[
+				"fields",
+				"$fields〔variable〕"
+			],
+			[
+				"pat",
+				"$paths〔variable〕"
+			],
+			[
+				"formatDate",
+				"formatDateTimeForView"
+			],
+			[
+				"DATE",
+				"TYPE_DATE_TIME〔constant〕"
+			],
+			[
+				"1",
+				"12:00:00"
+			],
+			[
+				"TYPE",
+				"TYPE_DATE_TIME"
+			],
+			[
+				"fieldT",
+				"$fieldType〔variable〕"
+			],
+			[
+				"met",
+				"met	PHP Method"
+			],
+			[
+				"desit",
+				"$destination〔variable〕"
+			],
+			[
+				"formatFieldValueFor",
+				"formatFieldValueForView"
+			],
+			[
+				"meth",
+				"$method〔variable〕"
+			],
+			[
+				"FORMAT",
+				"FORMAT_FOR_STORAGE〔constant〕"
+			],
+			[
+				"destin",
+				"$destination〔variable〕"
+			],
+			[
+				"methodFor",
+				"methodForFormatting"
+			],
+			[
+				"apply",
+				"applyStorageFormatterToField"
+			],
+			[
+				"fieldVa",
+				"$fieldValue〔variable〕"
+			],
+			[
+				"fie",
+				"$fieldName〔variable〕"
+			],
+			[
+				"method",
+				"$methodType〔variable〕"
+			],
+			[
+				"TY",
+				"TYPE_DATE〔constant〕"
+			],
+			[
+				"getRE",
+				"getRelationInfo〔function〕"
+			],
+			[
+				"beC",
+				"beConstructedWith〔function〕"
+			],
+			[
+				"rela",
+				"$relationInfo〔variable〕"
+			],
+			[
+				"FORMAT_FOR",
+				"FORMAT_FOR_STORAGE"
+			],
+			[
+				"ty",
+				"$type〔variable〕"
+			],
+			[
+				"FOR",
+				"FORMAT_DATE_TIME〔constant〕"
+			],
+			[
+				"des",
+				"$destination〔variable〕"
+			],
+			[
+				"convert",
+				"convertDateTimeForStorage"
+			],
+			[
+				"me",
+				"$method〔variable〕"
+			],
+			[
+				"filter",
+				"$filterData〔variable〕"
+			],
+			[
+				"messa",
+				"$messages〔variable〕"
+			],
+			[
+				"data",
+				"$data〔variable〕"
+			],
+			[
+				"getRela",
+				"getRelation"
+			],
+			[
+				"proper",
+				"property_exists"
+			],
+			[
+				"fore",
+				"foreignConfiguration"
+			],
+			[
+				"cus",
+				"$customFiltration〔variable〕"
+			],
+			[
+				"view",
+				"$viewDate〔variable〕"
+			],
+			[
+				"Carbon",
+				"Carbon\\Carbon"
+			],
+			[
+				"now",
+				"$nowDate〔variable〕"
+			],
+			[
+				"Invalid",
+				"InvalidDateStringException"
+			],
+			[
+				"Inval",
+				"InvalidDateStringException"
+			],
+			[
+				"dateStr",
+				"$dateString〔variable〕"
+			],
+			[
+				"dateTi",
+				"datetime"
+			],
+			[
+				"col",
+				"$columnValue〔variable〕"
+			],
+			[
+				"column",
+				"columnValue"
+			],
+			[
+				"birth",
+				"birthDateFrom"
+			],
+			[
+				"birht",
+				"$birthDateTo〔variable〕"
+			],
+			[
+				"bi",
+				"$birthDateTo〔variable〕"
+			],
+			[
+				"bir",
+				"$birthDateFrom〔variable〕"
+			],
+			[
+				"filterC",
+				"$filterCount〔variable〕"
+			],
+			[
+				"refere",
+				"referees"
+			],
+			[
+				"format",
+				"formatDateTimeForView〔function〕"
+			],
+			[
+				"sign",
+				"signIn"
+			],
+			[
+				"SE",
+				"SETTING_DATE_FORMAT_SEPARATOR〔constant〕"
+			],
+			[
+				"play",
+				"$playerDataUrl〔variable〕"
+			],
+			[
+				"getDate",
+				"getDateFormat"
+			],
+			[
+				"create",
+				"createFromTimestamp〔function〕"
+			],
+			[
+				"for",
+				"formatForView〔function〕"
+			],
+			[
+				"actu",
+				"actualUserDateString"
+			],
+			[
+				"getTEs",
+				"getTestDateTime〔function〕"
+			],
+			[
+				"getTest",
+				"getTestDateTime〔function〕"
+			],
+			[
+				"stora",
+				"storageDateTime"
+			],
+			[
+				"setUser",
+				"setUserFormatSettingsAndTimezone"
+			],
+			[
+				"Da",
+				"DatabaseTransactions〔trait〕"
+			],
+			[
+				"F",
+				"Foundation〔namespace〕"
+			],
+			[
+				"timeZ",
+				"$timeZonesList〔variable〕"
+			],
+			[
+				"Date",
+				"DateTimeZone〔namespace〕"
+			],
+			[
+				"timez",
+				"$timezones〔variable〕"
+			],
+			[
+				"assertC",
+				"assertCount"
+			],
+			[
+				"n",
+				"nowAsDateTime〔function〕"
+			],
+			[
 				"getApp",
 				"getAppTimeFormat〔function〕"
 			],
@@ -14,10 +394,6 @@
 			[
 				"assert",
 				"assertEquals"
-			],
-			[
-				"get",
-				"getAppDateFormat〔function〕"
 			],
 			[
 				"test",
@@ -40,10 +416,6 @@
 				"newUserSettings"
 			],
 			[
-				"user",
-				"$userSettings〔variable〕"
-			],
-			[
 				"related",
 				"$relatedTableFieldsDefinitions〔variable〕"
 			],
@@ -52,16 +424,8 @@
 				"$baseFields〔variable〕"
 			],
 			[
-				"col",
-				"$columns〔variable〕"
-			],
-			[
 				"param",
 				"parameter"
-			],
-			[
-				"met",
-				"methods"
 			],
 			[
 				"callback",
@@ -82,26 +446,6 @@
 			[
 				"relation",
 				"relationInfo"
-			],
-			[
-				"for",
-				"$formatterCallback〔variable〕"
-			],
-			[
-				"va",
-				"$value〔variable〕"
-			],
-			[
-				"field",
-				"fieldName"
-			],
-			[
-				"filter",
-				"filterData"
-			],
-			[
-				"format",
-				"formatValueForStorage〔function〕"
 			],
 			[
 				"formatter",
@@ -132,20 +476,12 @@
 				"pivotFields"
 			],
 			[
-				"convert",
-				"convertDateForStorage"
-			],
-			[
 				"relati",
 				"relationInfo"
 			],
 			[
 				"createAndReturnAGoalEventCom",
 				"createAndReturnAGoalEventCommandAndReplacedComment"
-			],
-			[
-				"create",
-				"createAndReturnAGoalEventComment"
 			],
 			[
 				"replaced",
@@ -168,10 +504,6 @@
 				"EventCommentType"
 			],
 			[
-				"req",
-				"request"
-			],
-			[
 				"ord",
 				"orders"
 			],
@@ -182,140 +514,16 @@
 			[
 				"form",
 				"format"
-			],
-			[
-				"pri",
-				"primaryKeyField"
-			],
-			[
-				"prima",
-				"primaryKeyField"
-			],
-			[
-				"fiel",
-				"fieldName"
-			],
-			[
-				"rela",
-				"relatedObject"
-			],
-			[
-				"data",
-				"dataToValidate"
-			],
-			[
-				"view",
-				"viewDateObj"
-			],
-			[
-				"fie",
-				"fieldName"
-			],
-			[
-				"valida",
-				"validationRules"
-			],
-			[
-				"tabl",
-				"tableOnly"
-			],
-			[
-				"func_get_",
-				"func_get_args"
-			],
-			[
-				"date",
-				"dateTime"
-			],
-			[
-				"getUser",
-				"getUserTimezone"
-			],
-			[
-				"pro",
-				"propertyValue"
-			],
-			[
-				"getUserT",
-				"getUserTimeFormat"
-			],
-			[
-				"time",
-				"timeFmt"
-			],
-			[
-				"pmet",
-				"parameters	(Model.php)"
-			],
-			[
-				"prim",
-				"primaryField"
-			],
-			[
-				"exist",
-				"existingDateSeparator"
-			],
-			[
-				"exis",
-				"existingDateSeparator"
-			],
-			[
-				"str",
-				"stripos"
-			],
-			[
-				"getDateFormatSepara",
-				"getDateFormatSeparatorSetting"
-			],
-			[
-				"getDateFormat",
-				"getDateFormatSeparatorSetting"
-			],
-			[
-				"getDateForm",
-				"getDateFormatSeparatorSetting"
-			],
-			[
-				"getDateFormatSe",
-				"getDateFormatSeparatorSetting"
-			],
-			[
-				"getDateFor",
-				"getDateFormatSeparatorSetting"
-			],
-			[
-				"fill",
-				"fillDateFormatWithSeparator"
-			],
-			[
-				"getDate",
-				"getDateFormatWithSeparator"
-			],
-			[
-				"default",
-				"defaultValue"
-			],
-			[
-				"show",
-				"showWidgetButton"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/home/mpalade/Work/btd/core-system/tests/Services/Formatters/DateTest.php",
+			"file": "/home/mpalade/Work/btd/core-system/work/2016/week17.org",
 			"settings":
 			{
-				"buffer_size": 1831,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/mpalade/Work/btd/core-system/app/Services/Formatters/Date.php",
-			"settings":
-			{
-				"buffer_size": 5007,
+				"buffer_size": 3809,
 				"line_ending": "Unix"
 			}
 		},
@@ -323,39 +531,31 @@
 			"file": "/home/mpalade/Work/btd/core-system/app/Services/Generators/Date.php",
 			"settings":
 			{
-				"buffer_size": 2393,
+				"buffer_size": 3385,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/mpalade/Work/btd/core-system/tests/Services/Settings/UserTest.php",
+			"file": "/home/mpalade/Work/btd/core-system/app/Services/Preferences/Preferences.php",
 			"settings":
 			{
-				"buffer_size": 356,
+				"buffer_size": 499,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/mpalade/.config/sublime-text-3/Packages/User/SimplePHPUnit.sublime-settings",
+			"file": "/home/mpalade/Work/btd/core-system/tests/unit/Services/Generators/DateSpec.php",
 			"settings":
 			{
-				"buffer_size": 30,
+				"buffer_size": 984,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/mpalade/Work/btd/core-system/app/Services/Settings/User.php",
+			"file": "/home/mpalade/Work/btd/core-system/app/Services/Preferences/User.php",
 			"settings":
 			{
-				"buffer_size": 1231,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/mpalade/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-			"settings":
-			{
-				"buffer_size": 625,
+				"buffer_size": 2234,
 				"line_ending": "Unix"
 			}
 		}
@@ -368,9 +568,77 @@
 	"command_palette":
 	{
 		"height": 354.0,
-		"last_filter": "Insta",
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"jira",
+				"SublimeJira: Create issue"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"orgm",
+				"Preferences: orgmode Settings – Default"
+			],
+			[
+				"orgmode",
+				"Preferences: orgmode Settings – User"
+			],
+			[
+				"org",
+				"Set Syntax: orgmode"
+			],
+			[
+				"Blame",
+				"Git: Blame"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"Diff",
+				"Git: Diff Current File"
+			],
+			[
+				"spell",
+				"Google Spell Check"
+			],
+			[
+				"doc",
+				"DocPHP: Checkout Language"
+			],
+			[
+				"getter",
+				"Generate Getter for ..."
+			],
+			[
+				"setter",
+				"Generate Setter for ..."
+			],
+			[
+				"format",
+				"phpfmt: format now"
+			],
 			[
 				"Insta",
 				"Package Control: Install Package"
@@ -380,28 +648,8 @@
 				"PHPUnit: Run with params"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"blame",
-				"Git: Blame"
-			],
-			[
-				"diff",
-				"Git: Diff Current File"
-			],
-			[
 				"remove p",
 				"Package Control: Remove Package"
-			],
-			[
-				"format",
-				"phpfmt: format now"
-			],
-			[
-				"doc",
-				"DocPHP: Checkout Language"
 			],
 			[
 				"psr",
@@ -418,10 +666,6 @@
 			[
 				"insta",
 				"Package Control: Install Package"
-			],
-			[
-				"Blame",
-				"Git: Blame"
 			],
 			[
 				"git diff",
@@ -476,10 +720,6 @@
 				"SublimeREPL: Python"
 			],
 			[
-				":w",
-				":w - Save"
-			],
-			[
 				"Markdown",
 				"Markdown Preview: Preview in Browser"
 			]
@@ -488,7 +728,7 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 260.0,
 		"history":
 		[
 		]
@@ -506,185 +746,196 @@
 	[
 		"/home/mpalade/Work/btd/core-system",
 		"/home/mpalade/Work/btd/core-system/app",
+		"/home/mpalade/Work/btd/core-system/app/Exceptions",
 		"/home/mpalade/Work/btd/core-system/app/Http",
 		"/home/mpalade/Work/btd/core-system/app/Http/Controllers",
+		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/Auth",
+		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/Traits",
+		"/home/mpalade/Work/btd/core-system/app/Http/Requests",
 		"/home/mpalade/Work/btd/core-system/app/Http/ViewComposers",
 		"/home/mpalade/Work/btd/core-system/app/Lib",
 		"/home/mpalade/Work/btd/core-system/app/Models",
+		"/home/mpalade/Work/btd/core-system/app/Models/Tournament",
 		"/home/mpalade/Work/btd/core-system/app/Providers",
 		"/home/mpalade/Work/btd/core-system/app/Services",
+		"/home/mpalade/Work/btd/core-system/app/Services/Duplicates",
 		"/home/mpalade/Work/btd/core-system/app/Services/Formatters",
 		"/home/mpalade/Work/btd/core-system/app/Services/Generators",
-		"/home/mpalade/Work/btd/core-system/app/Services/Settings",
-		"/home/mpalade/Work/btd/core-system/app/Validators",
+		"/home/mpalade/Work/btd/core-system/app/Services/Preferences",
 		"/home/mpalade/Work/btd/core-system/config",
-		"/home/mpalade/Work/btd/core-system/database",
-		"/home/mpalade/Work/btd/core-system/extensions",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary",
+		"/home/mpalade/Work/btd/core-system/node_modules",
+		"/home/mpalade/Work/btd/core-system/node_modules/npm",
+		"/home/mpalade/Work/btd/core-system/node_modules/npm/lib",
+		"/home/mpalade/Work/btd/core-system/node_modules/postcss",
+		"/home/mpalade/Work/btd/core-system/node_modules/postcss/lib",
+		"/home/mpalade/Work/btd/core-system/resources",
 		"/home/mpalade/Work/btd/core-system/tests",
-		"/home/mpalade/Work/btd/core-system/tests/Controllers",
-		"/home/mpalade/Work/btd/core-system/tests/Lib",
-		"/home/mpalade/Work/btd/core-system/tests/Models",
-		"/home/mpalade/Work/btd/core-system/tests/Services",
-		"/home/mpalade/Work/btd/core-system/tests/Services/Formatters",
-		"/home/mpalade/Work/btd/core-system/tests/Services/Settings",
 		"/home/mpalade/Work/btd/core-system/tests/_support",
-		"/home/mpalade/Work/btd/core-system/tests/_support/_generated",
+		"/home/mpalade/Work/btd/core-system/tests/acceptance",
+		"/home/mpalade/Work/btd/core-system/tests/unit",
+		"/home/mpalade/Work/btd/core-system/tests/unit/Services",
+		"/home/mpalade/Work/btd/core-system/tests/unit/Services/Formatters",
+		"/home/mpalade/Work/btd/core-system/tests/unit/Services/Generators",
+		"/home/mpalade/Work/btd/core-system/tests/unit/Services/Preferences",
 		"/home/mpalade/Work/btd/core-system/vendor",
-		"/home/mpalade/Work/btd/core-system/vendor/classpreloader",
-		"/home/mpalade/Work/btd/core-system/vendor/classpreloader/classpreloader",
-		"/home/mpalade/Work/btd/core-system/vendor/classpreloader/classpreloader/src",
 		"/home/mpalade/Work/btd/core-system/vendor/laravel",
 		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework",
 		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src",
 		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate",
 		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Container",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Contracts",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Contracts/Container",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Database",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Database/Capsule",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Database/Eloquent",
 		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Foundation",
-		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Foundation/Http",
-		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Foundation/Testing",
-		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Foundation/Validation",
-		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Validation",
-		"/home/mpalade/Work/btd/core-system/vendor/nesbot",
-		"/home/mpalade/Work/btd/core-system/vendor/nesbot/carbon",
-		"/home/mpalade/Work/btd/core-system/vendor/nesbot/carbon/src",
-		"/home/mpalade/Work/btd/core-system/vendor/nesbot/carbon/src/Carbon",
-		"/home/mpalade/Work/btd/core-system/vendor/pdepend",
-		"/home/mpalade/Work/btd/core-system/vendor/pdepend/pdepend",
-		"/home/mpalade/Work/btd/core-system/vendor/pdepend/pdepend/src",
-		"/home/mpalade/Work/btd/core-system/vendor/pdepend/pdepend/src/test",
-		"/home/mpalade/Work/btd/core-system/vendor/pdepend/pdepend/src/test/resources",
-		"/home/mpalade/Work/btd/core-system/vendor/pdepend/pdepend/src/test/resources/files",
-		"/home/mpalade/Work/btd/core-system/vendor/pdepend/pdepend/src/test/resources/files/issues"
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Session",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Session/Middleware",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Support",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/View",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/View/Compilers",
+		"/home/mpalade/Work/btd/core-system/vendor/phpspec",
+		"/home/mpalade/Work/btd/core-system/vendor/phpspec/phpspec",
+		"/home/mpalade/Work/btd/core-system/vendor/phpspec/phpspec/src",
+		"/home/mpalade/Work/btd/core-system/vendor/phpspec/phpspec/src/PhpSpec",
+		"/home/mpalade/Work/btd/core-system/vendor/phpspec/phpspec/src/PhpSpec/Wrapper",
+		"/home/mpalade/Work/btd/core-system/vendor/symfony",
+		"/home/mpalade/Work/btd/core-system/vendor/symfony/http-foundation",
+		"/home/mpalade/Work/btd/core-system/vendor/symfony/http-foundation/Session",
+		"/home/mpalade/Work/btd/core-system/vendor/symfony/http-foundation/Session/Storage",
+		"/home/mpalade/Work/btd/core-system/vendor/symfony/http-foundation/Session/Storage/Handler",
+		"/home/mpalade/Work/btd/core-system/work",
+		"/home/mpalade/Work/btd/core-system/work/2016"
 	],
 	"file_history":
 	[
-		"/home/mpalade/.config/sublime-text-3/Packages/SimplePHPUnit/SimplePHPUnit.sublime-settings",
-		"/home/mpalade/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
-		"/home/mpalade/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-		"/home/mpalade/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
-		"/home/mpalade/Work/btd/core-system/tests/TestCase.php",
-		"/home/mpalade/Work/btd/core-system/app/Services/Settings/Application.php",
-		"/home/mpalade/Work/btd/core-system/tests/Services/Settings/ApplicationTest.php",
-		"/home/mpalade/Work/btd/core-system/config/app.php",
-		"/home/mpalade/Work/btd/core-system/app/Lib/Tools.php",
-		"/home/mpalade/Work/btd/core-system/vendor/classpreloader/classpreloader/src/Config.php",
-		"/home/mpalade/Work/btd/core-system/composer.json",
-		"/home/mpalade/.config/sublime-text-3/Packages/User/snippets/TestServiceClass.sublime-snippet",
-		"/home/mpalade/.config/sublime-text-3/Packages/User/snippets/TestClass.sublime-snippet",
-		"/home/mpalade/Work/btd/core-system/app/Providers/ToolsServiceProvider.php",
-		"/home/mpalade/.config/sublime-text-3/Packages/User/snippets/LaravelService.sublime-snippet",
-		"/home/mpalade/Work/btd/core-system/app/Services/Formatters/test.php",
-		"/home/mpalade/.config/sublime-text-3/Packages/User/snippets/PHP Constructor.sublime-snippet",
-		"/home/mpalade/.config/sublime-text-3/Packages/User/snippets/PHP Class.sublime-snippet",
-		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Container/Container.php",
-		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/ClubController.php",
-		"/home/mpalade/Work/btd/core-system/app/Models/Club.php",
-		"/home/mpalade/Work/btd/core-system/app/Http/ViewComposers/FormComposer.php",
-		"/home/mpalade/Work/btd/core-system/app/Http/ViewComposers/TableComposer.php",
-		"/home/mpalade/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
-		"/home/mpalade/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
-		"/home/mpalade/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
-		"/home/mpalade/Work/btd/core-system/tests/_support/_generated/FunctionalTesterActions.php",
-		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/AbstractEntityController.php",
-		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/PlayerController.php",
-		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/PersonController.php",
-		"/home/mpalade/Work/btd/core-system/phpspec.yml",
-		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php",
-		"/home/mpalade/Work/btd/core-system/app/Services/Duplicates/DuplicateCheckController.php",
-		"/home/mpalade/Work/btd/core-system/vendor/pdepend/pdepend/src/test/resources/files/issues/002-009-namespace-declaration.php",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/src/Models/DisciplinaryCase.php",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/src/Controllers/CasesController.php",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/resources/views/cases/documents-container.blade.php",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/src/Controllers/SanctionsController.php",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/resources/views/sanctions/create.blade.php",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/resources/views/sanctions/table.blade.php",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/resources/views/documents/table.blade.php",
-		"/home/mpalade/Work/btd/core-system/vendor/nesbot/carbon/src/Carbon/Carbon.php",
-		"/home/mpalade/Work/btd/core-system/app/Models/Document.php",
-		"/home/mpalade/Work/btd/core-system/app/Services/Formatters/Date.php",
-		"/home/mpalade/Work/btd/core-system/app/Services/Formatters/Formatters.php",
-		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Validation/Validator.php",
-		"/home/mpalade/Work/btd/core-system/app/Validators/UserDateValidator.php",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/src/Models/DisciplinarySanction.php",
-		"/home/mpalade/Work/btd/core-system/resources/lang/en/validation.php",
-		"/home/mpalade/Work/btd/core-system/app/Providers/AppServiceProvider.php",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/src/Helpers/DisciplinaryCasesHelper.php",
-		"/home/mpalade/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/src/Controllers/DisqualificationsController.php",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/resources/views/cases/form.blade.php",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/resources/views/cases/index.blade.php",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/resources/views/cases/edit.blade.php",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/resources/views/sanctions/index-composed.blade.php",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/resources/views/cases/disqualifications/index.blade.php",
-		"/home/mpalade/Work/btd/core-system/app/Services/Generators/Date.php",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/src/Models/DisciplinaryDisqualification.php",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/resources/views/cases/disqualifications/index-create-combo.blade.php",
-		"/home/mpalade/Work/btd/core-system/public/js/fmp/forms.js",
-		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletes.php",
-		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/Controller.php",
-		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php",
-		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/src/DisciplinaryServiceProvider.php",
-		"/home/mpalade/Work/btd/core-system/config/view.php",
-		"/home/mpalade/Work/btd/core-system/resources/views/base/page.blade.php",
-		"/home/mpalade/Work/btd/core-system/resources/views/form/field/datetime.blade.php",
-		"/home/mpalade/Work/btd/core-system/app/Models/Person/Player.php",
-		"/home/mpalade/Work/btd/core-system/app/Http/ViewComposers/Traits/DateTime.php",
-		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/TeamController.php",
-		"/home/mpalade/Work/btd/core-system/public/js/angular/angular-scenario.js",
-		"/home/mpalade/.config/sublime-text-3/Packages/Gutter Color/GutterColor.sublime-settings",
-		"/home/mpalade/Work/btd/core-system/public/css/main.css",
-		"/home/mpalade/.config/sublime-text-3/Packages/phpfmt/phpfmt.sublime-settings",
+		"/home/mpalade/Work/btd/core-system/tests/unit/Services/Preferences/UserSpec.php",
 		"/home/mpalade/Work/btd/core-system/app/Lib/Calendar.php",
+		"/home/mpalade/Work/btd/core-system/composer.json",
+		"/home/mpalade/Work/btd/core-system/tests/unit/Services/Formatters/DateSpec.php",
 		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/CalendarController.php",
-		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php",
-		"/home/mpalade/Work/btd/core-system/app/Http/Requests/Request.php",
-		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Http/Request.php",
-		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Foundation/Validation/ValidatesRequests.php",
-		"/home/mpalade/.config/sublime-text-3/Packages/User/phpfmt.sublime-settings",
-		"/home/mpalade/Work/btd/core-system/app/Models/EventComment.php",
-		"/home/mpalade/Work/btd/core-system/app/Models/Event.php",
-		"/home/mpalade/.config/sublime-text-3/Packages/User/Projects/btd.sublime-project",
-		"/home/mpalade/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
-		"/home/mpalade/.config/sublime-text-3/Packages/Alignment/Base File.sublime-settings",
-		"/home/mpalade/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
-		"/home/mpalade/Work/btd/core-system/app/Services/External/EventCommentType.php",
-		"/home/mpalade/Work/btd/core-system/tests/Models/EventCommentTest.php",
-		"/home/mpalade/Work/btd/core-system/app/Models/Participant.php",
-		"/home/mpalade/Work/btd/core-system/app/Services/External/EventType.php",
-		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/AuditController.php",
-		"/home/mpalade/Work/btd/core-system/app/Http/routes.php",
-		"/home/mpalade/Work/btd/core-system/app/Models/Person.php",
-		"/home/mpalade/Work/btd/core-system/app/User.php",
-		"/home/mpalade/Work/btd/core-system/app/Models/Eav.php",
-		"/home/mpalade/Work/btd/core-system/app/Models/Match.php",
-		"/home/mpalade/Work/btd/core-system/tests/Models/MatchModelTest.php",
-		"/home/mpalade/Work/btd/core-system/app/Models/Permissions/Users.php",
-		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/UserController.php",
-		"/home/mpalade/Work/btd/core-system/app/Models/Team.php",
-		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
-		"/home/mpalade/Work/btd/core-system/app/Models/Person/AbstractPersonType.php",
-		"/home/mpalade/Work/btd/core-system/database/migrations/2015_10_20_145617_create_club_persons_table.php",
-		"/home/mpalade/Work/btd/core-system/database/migrations/2015_11_04_081727_add_missing_autoincrements.php",
-		"/home/mpalade/Work/btd/core-system/database/migrations/2015_07_21_130517_create_persons_table.php",
-		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/DocumentController.php",
-		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/MatchController.php",
-		"/home/mpalade/Work/btd/core-system/config/permissions.php",
-		"/home/mpalade/Work/btd/core-system/app/Models/Permissions/Groups.php",
-		"/home/mpalade/Work/btd/core-system/public/js/fmp/tables.js",
-		"/home/mpalade/Work/btd/core-system/public/js/fmp/common.js",
-		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/UploadFileController.php",
-		"/home/mpalade/Work/btd/core-system/resources/views/table/container.blade.php",
-		"/home/mpalade/Work/btd/core-system/resources/views/modal/container.blade.php",
-		"/home/mpalade/Work/btd/core-system/resources/views/form/container.blade.php",
-		"/home/mpalade/Work/btd/core-system/public/js/king-table.js",
+		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/Traits/Calendar.php",
+		"/home/mpalade/Work/btd/core-system/app/Providers/ToolsServiceProvider.php",
+		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/Auth/AuthController.php",
+		"/home/mpalade/Work/btd/core-system/app/Services/Preferences/Preferences.php",
+		"/home/mpalade/Work/btd/core-system/app/Services/Formatters/Formatters.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
+		"/home/mpalade/Work/btd/core-system/config/database.php",
 		"/home/mpalade/Work/btd/core-system/app/Http/ViewComposers/UserComposer.php",
-		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php",
-		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php",
-		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php",
-		"/home/mpalade/Work/btd/core-system/app/Services/Format/Date.php",
-		"/home/mpalade/Work/btd/core-system/app/Lib/Tools/DateFormat.php",
-		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/Reports/ReportController.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Session/SessionInterface.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/home/mpalade/Work/btd/core-system/vendor/symfony/http-foundation/Session/SessionInterface.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Session/SessionManager.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Session/FileSessionHandler.php",
+		"/home/mpalade/Work/btd/core-system/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php",
+		"/home/mpalade/Work/btd/core-system/vendor/phpspec/phpspec/src/PhpSpec/Wrapper/Collaborator.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Session/SessionServiceProvider.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Support/Manager.php",
+		"/home/mpalade/Work/btd/core-system/config/session.php",
+		"/home/mpalade/Work/btd/core-system/app/Http/ViewComposers/TableComposer.php",
+		"/home/mpalade/.config/sublime-text-3/Packages/orgmode/messages/install.org",
+		"/home/mpalade/.config/sublime-text-3/Packages/User/SublimeJira.sublime-settings",
+		"/home/mpalade/.config/sublime-text-3/Packages/SublimeJira/SublimeJira.sublime-settings",
+		"/home/mpalade/Work/btd/core-system/app/Services/Formatters/Date.php",
+		"/home/mpalade/Work/btd/core-system/app/Models/Person.php",
+		"/home/mpalade/Dropbox/Personal/Organizing/Moldoveni.org",
+		"/home/mpalade/Work/btd/core-system/app/User.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/PersonController.php",
+		"/home/mpalade/Work/btd/core-system/app/Services/Duplicates/ChecksDuplicates.php",
+		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/ClubController.php",
+		"/home/mpalade/Work/btd/core-system/app/Services/Duplicates/Checker.php",
+		"/home/mpalade/Work/btd/core-system/app/Models/Validatable.php",
+		"/home/mpalade/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/mpalade/Work/btd/core-system/app/Services/Preferences/Application.php",
+		"/home/mpalade/Work/btd/core-system/app/Models/EavDateValue.php",
+		"/home/mpalade/Work/btd/core-system/app/Lib/Statistics.php",
+		"/home/mpalade/Work/btd/core-system/public/js/fmp/common.js",
+		"/home/mpalade/Work/btd/core-system/tests/acceptance/DateFormatTest.php",
+		"/home/mpalade/Work/btd/core-system/.env.example",
+		"/home/mpalade/Work/btd/core-system/app/Services/Preferences/User.php",
+		"/home/mpalade/Work/btd/core-system/app/Lib/Tools.php",
+		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/src/Controllers/CasesController.php",
+		"/home/mpalade/Work/btd/core-system/tests/TestCase.php",
+		"/home/mpalade/Work/btd/core-system/resources/views/form/field/date.blade.php",
+		"/home/mpalade/Work/btd/core-system/tests/integration/Services/Formatters/DateTest.php",
+		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/AbstractEntityController.php",
+		"/home/mpalade/Work/btd/core-system/app/Models/Eav.php",
+		"/home/mpalade/Work/btd/core-system/app/Models/EavAttribute.php",
+		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/PlayerController.php",
+		"/home/mpalade/Work/btd/core-system/vendor/nesbot/carbon/src/Carbon/Carbon.php",
+		"/home/mpalade/Work/btd/core-system/app/Models/EavDatetimeValue.php",
+		"/home/mpalade/Work/btd/core-system/app/Http/ViewComposers/FormComposer.php",
+		"/home/mpalade/Work/btd/core-system/gulpfile.js",
+		"/home/mpalade/Work/btd/core-system/resources/views/form/field.blade.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php",
+		"/home/mpalade/Work/btd/core-system/resources/views/form/field/progressChecklist.blade.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php",
+		"/home/mpalade/Work/btd/core-system/storage/framework/cache/08/27/082792d7d56a2d4f8df869ed1c9750d38797a95f",
+		"/home/mpalade/Work/btd/core-system/work/2016/week16.org",
+		"/home/mpalade/.config/sublime-text-3/scratchpad.txt",
+		"/home/mpalade/.config/sublime-text-3/Packages/User/orgmode.sublime-settings",
+		"/home/mpalade/.config/sublime-text-3/Packages/User/SublimeLinter/Facebook (SL).tmTheme",
+		"/home/mpalade/.config/sublime-text-3/Packages/orgmode/orgmode.sublime-settings",
+		"/home/mpalade/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/mpalade/.config/sublime-text-3/Packages/phpfmt/message",
+		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/UserController.php",
+		"/home/mpalade/Work/btd/core-system/tests/acceptance/Services/Formatters/DateTest.php",
+		"/home/mpalade/Work/btd/core-system/tests/_support/AcceptanceTester.php",
+		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/AuditController.php",
+		"/home/mpalade/Work/btd/core-system/resources/views/reports/blocks/suspension-team.blade.php",
+		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/src/Helpers/MatchDisqualificationHelper.php",
+		"/home/mpalade/Work/btd/core-system/app/Models/Tournament/Tournament.php",
+		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/TournamentController.php",
+		"/home/mpalade/Work/btd/core-system/app/Http/ViewComposers/Traits/DateTime.php",
+		"/home/mpalade/Work/btd/core-system/package.json",
+		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/OrganizationController.php",
+		"/home/mpalade/Work/btd/core-system/app/Services/Formatters/Exceptions/InvalidTypeForFormatterException.php",
+		"/home/mpalade/Work/btd/core-system/app/Services/Formatters/Exceptions/InvalidTypeForFormatter.php",
+		"/home/mpalade/Work/btd/core-system/tests/unit/Services/Formatters/Traits/DateFormatterSpec.php",
+		"/home/mpalade/Work/btd/core-system/app/Services/Formatters/Traits/DateFormatter.php",
+		"/home/mpalade/Work/btd/core-system/app/Services/Traits/Test.php",
+		"/home/mpalade/Work/btd/core-system/phpspec.yml",
+		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/Controller.php",
+		"/home/mpalade/Work/btd/core-system/_ide_helper.php",
+		"/home/mpalade/Work/btd/core-system/database/migrations/2016_04_15_121412_change_venue_teams_start_and_end_fields_type_to_date.php",
+		"/home/mpalade/Work/btd/core-system/database/migrations/2016_04_19_134057_change_organization_persons_start_and_end_fields_type_to_date.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
+		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/TeamController.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
+		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/VenueController.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravelcollective/html/src/FormBuilder.php",
+		"/home/mpalade/Work/btd/core-system/app/Http/Requests/Request.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php",
+		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/src/Models/DisciplinaryCase.php",
+		"/home/mpalade/Work/btd/core-system/app/Models/Person/AbstractPersonType.php",
+		"/home/mpalade/Work/btd/core-system/app/Models/Person/Player.php",
+		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/src/Models/DisciplinarySanction.php",
+		"/home/mpalade/Work/btd/core-system/app/Models/Team.php",
+		"/home/mpalade/Work/btd/core-system/database/migrations/2016_04_19_084723_change_team_persons_start_and_end_fields_type_to_date.php",
+		"/home/mpalade/Work/btd/core-system/app/Validators/UserDateValidator.php",
+		"/home/mpalade/Work/btd/core-system/database/migrations/2016_04_15_132900_change_venue_persons_start_and_end_fields_type_to_date.php",
+		"/home/mpalade/Work/btd/core-system/app/Lib/Fishnet/UpdateHandler.php",
+		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/resources/views/sanctions/create.blade.php",
+		"/home/mpalade/Work/btd/core-system/tests/extensions/disciplinary/AutomatedCasesTest.php",
+		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/src/AutomatedCases/CaseBuilder.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Validation/Validator.php",
+		"/home/mpalade/Work/btd/core-system/app/Models/Venue.php",
+		"/home/mpalade/Work/btd/core-system/tests/Controllers/MatchEventsTest.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/InteractsWithPages.php",
+		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/MatchController.php",
+		"/home/mpalade/Work/btd/core-system/extensions/disciplinary/src/Helpers/DisciplinaryCasesHelper.php",
+		"/home/mpalade/Work/btd/core-system/app/Providers/AppServiceProvider.php",
+		"/home/mpalade/Work/btd/core-system/reset.sh",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsToMany.php",
+		"/home/mpalade/Work/btd/core-system/database/seeds/AddBasicTestingData.php",
+		"/home/mpalade/Work/btd/core-system/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php",
+		"/home/mpalade/Work/btd/core-system/database/migrations/2016_04_15_120934_change_venue_teams_start_and_end_fields_type_to_date.php",
+		"/home/mpalade/Downloads/remove-menuitem.sh",
+		"/home/mpalade/Work/btd/core-system/app/Services/Formatters/Exceptions/InvalidDateStringException.php",
 		"/home/mpalade/Work/btd/core-system/app/Http/Controllers/Reports/GeneratorController.php"
 	],
 	"find":
@@ -696,6 +947,10 @@
 		"height": 324.0,
 		"where_history":
 		[
+			"/home/mpalade/Work/btd/core-system",
+			"/home/mpalade/Work/btd/core-system/vendor",
+			"/home/mpalade/Work/btd/core-system/",
+			"/home/mpalade/Work/btd/core-system/database/seeds",
 			"",
 			"*.js",
 			"",
@@ -708,97 +963,145 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"dateService",
-			"handleCustomRelations",
-			"{",
-			"indent",
-			"toFormattedDateString",
-			"formatFilter",
-			"format the data used to filter the results",
-			"formatFilterDataForStorage",
-			"apply storage formatting for date/datetime",
-			"data",
-			"createAndReturnAGoalEventComment",
-			"evenType",
-			"<<<",
-			"filterData",
-			"override_validation",
-			"team_persons",
-			"updatePivotElement",
-			"getDefaultDateFormat",
-			"getUserTimeFormat",
-			"getDefaultDateFormat",
-			"dump",
-			"userSettings.date_format",
-			"userDateFormat",
-			"editable(",
-			"new $.fn.dataTable.Editor(",
-			"editable",
-			"datepicker-inline",
-			"datepicker datepicker-inline",
-			"format:",
-			"format",
-			"king-table.js",
-			"datepicker({",
-			"format: \"yyyy-mm-dd\"",
-			"datepicker(",
-			"datepicker",
-			"date",
-			"SESSION_USER_SETTINGS",
-			"user-settings",
-			"self",
-			"_datepicker",
-			"datepicker",
-			"bootstrap-datepicker.js",
-			"fmpInitDateAndTimeFields",
-			"Config::get('app.date_format')",
-			"date('Y-m-d')",
-			"Config::get('app.date_format')",
-			"fillObjectWithRequest",
-			"dateTimeFormat",
-			"dateTime",
-			"dateTimeInput",
-			"Config::get('app.date_format')",
-			"key",
-			"fields",
-			"value",
-			"30-11--0001 00:00:00",
-			"Config::get('app.date_format')",
-			"getBirthDateAttribute",
-			"protected",
-			"Indirect modification of overloaded element of",
-			"Indirect modification of overloaded element of Illuminate\\Database\\Eloquent\\Collection has no effect",
-			"dateFormat",
-			"convertDateTimeToUTC",
-			"convertDateTimeToLocal",
-			"dd",
+			"'timezone'",
+			"sessionManager",
+			"getIns",
+			"403",
+			"ChecksDuplicates",
+			"Checker",
+			"extends Checker",
+			"Checker",
+			"duplicateCheckFields",
 			"birthDate",
-			"ISO8601",
-			"carbon",
-			"casts",
-			"<?",
-			"customRelations",
-			"fold",
-			"fade",
-			"collapse",
-			"User",
-			"user",
-			"User",
-			"getDateFormatWithSeparator",
-			"date_format",
-			"formDataAttributes",
-			"tabName",
-			"php artisan migrate"
+			"(https)(.*\\-)([\\d]+)",
+			"(https).*\\-([\\d]+)",
+			"https.*\\-[\\d]+",
+			"https://jira.btd.de/browse/FMPTWO-506",
+			"https.*\\-[\\d]+",
+			"getSett",
+			"getSettings",
+			"default_phone_code",
+			"'default_phone_code'",
+			"'timezone'",
+			"'Timezone'",
+			"'timezone'",
+			"'language'",
+			"'Language'",
+			"'language'",
+			"skip",
+			"language",
+			"Language",
+			"language",
+			"g",
+			"language",
+			"dump(",
+			"nowDate",
+			"dump",
+			"update",
+			"dateInThePast",
+			"nowDate",
+			"dateFormatter->",
+			"eavValues",
+			"use Eav",
+			"use FMP\\Models\\Eav;",
+			"use Eav;",
+			"hack",
+			"userPre",
+			"mapUserDateFormatToJSDateFormat",
+			"mapJSDate",
+			"include(",
+			"progressChecklist",
+			"appDate",
+			"appPreferences",
+			"nowDate",
+			"formatForVi",
+			"mapUserDateFormatToJSDateFormat",
+			"<<<",
+			"FMP\\Lib\\UserPermissions",
+			"FMP\\Models\\UploadFile",
+			"FMP\\Http\\ViewComposers\\TableComposer",
+			"FMP\\Http\\ViewComposers\\FormComposer",
+			"FMP\\Http\\Requests",
+			"Illuminate\\Http\\Response",
+			"Illuminate\\Http\\RedirectResponse",
+			"Illuminate\\Database\\Eloquent\\ModelNotFoundException",
+			"Illuminate\\View\\View",
+			"Illuminate\\Support\\Str",
+			"Illuminate\\Http\\Request",
+			"Illuminate\\Database\\Eloquent\\Model",
+			"Illuminate\\Database\\Eloquent\\Collection",
+			"dump",
+			"fields",
+			"methodForView",
+			"methodForStorageFormatting",
+			"treatDateTime",
+			"dump",
+			"formatValueForStorage",
+			"formatFilterDataForStorage",
+			"formatFieldsValuesForStorage",
+			"formatFieldsValuesForView",
+			"methodForViewFormatting",
+			"methodForStorageFormatting",
+			"applyStorageFormatterToField",
+			"value",
+			"formatValueForStorage",
+			"userDate",
+			"treatDateTime",
+			"getFormatterCallback",
+			"foreignCon",
+			"dateFormatter",
+			"user_date",
+			"userDate",
+			"ini_set",
+			"<<<",
+			"start",
+			"venue",
+			"throw",
+			"InvalidDateStringException",
+			"ctrl+shift+r",
+			"startDate",
+			"datetime",
+			"Venue",
+			"\\Importer",
+			"Importer",
+			"birthDateFrom",
+			"birthDateTo",
+			"birthDateFrom",
+			"ScoutsExport",
+			"REL_TEAM_PLAYERS",
+			"CALL_TYPE_COLUMN",
+			"CALL_TYPE_DEFAULT",
+			"dateForma",
+			"Tools",
+			"convertDateTimeToUTC(",
+			"convertDateTimeToLocal(",
+			"@inject('dateFormatter'",
+			"suspension-team",
+			"convertDateTimeToLocal(",
+			"this",
+			"userDateFormat",
+			"userSettings",
+			"<<<",
+			"getCarbonDateFromDateString",
+			"Tools::getCarbonDateFromDateString",
+			"prepareData",
+			"this",
+			"getUserDateFormat(",
+			"getTimezoneList(",
+			"formatDateTimeForUser",
+			"formatDateTimeForUser(",
+			"formatDateForUser"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"[[\\1\\2\\3]]",
 			"UserProfile"
 		],
-		"reverse": true,
+		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -807,29 +1110,68 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/mpalade/Work/btd/core-system/tests/Services/Formatters/DateTest.php",
+					"file": "/home/mpalade/Work/btd/core-system/work/2016/week17.org",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1831,
+						"buffer_size": 3809,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								264,
-								264
+								3253,
+								3253
 							]
 						],
 						"settings":
 						{
 							"_anf_new": "",
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/orgmode/orgmode.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6390.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/mpalade/Work/btd/core-system/app/Services/Generators/Date.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2223,
+								2223
+							]
+						],
+						"settings":
+						{
 							"auto_complete": false,
 							"auto_complete_triggers":
 							[
@@ -843,6 +1185,49 @@
 								}
 							],
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/mpalade/Work/btd/core-system/app/Services/Preferences/Preferences.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -853,20 +1238,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "/home/mpalade/Work/btd/core-system/app/Services/Formatters/Date.php",
+					"buffer": 3,
+					"file": "/home/mpalade/Work/btd/core-system/tests/unit/Services/Generators/DateSpec.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5007,
+						"buffer_size": 984,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5000,
-								5000
+								972,
+								972
 							]
 						],
 						"settings":
@@ -884,157 +1269,34 @@
 								}
 							],
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 949.0,
+						"translation.y": 274.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/home/mpalade/Work/btd/core-system/app/Services/Generators/Date.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2393,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								359,
-								359
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/mpalade/Work/btd/core-system/tests/Services/Settings/UserTest.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 356,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								196,
-								196
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
-							"auto_complete": false,
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
 					"buffer": 4,
-					"file": "/home/mpalade/.config/sublime-text-3/Packages/User/SimplePHPUnit.sublime-settings",
+					"file": "/home/mpalade/Work/btd/core-system/app/Services/Preferences/User.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 30,
+						"buffer_size": 2234,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								20,
-								20
+								1742,
+								1742
 							]
 						],
 						"settings":
 						{
-							"auto_complete": true,
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/home/mpalade/Work/btd/core-system/app/Services/Settings/User.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1231,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								205,
-								205
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
 							"auto_complete": false,
 							"auto_complete_triggers":
 							[
@@ -1052,51 +1314,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 495.0,
+						"translation.y": 2287.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/home/mpalade/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 625,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								622,
-								622
-							]
-						],
-						"settings":
-						{
-							"auto_complete": true,
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -1157,7 +1378,7 @@
 	"project": "btd.sublime-project",
 	"replace":
 	{
-		"height": 130.0
+		"height": 126.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1167,516 +1388,516 @@
 		"selected_items":
 		[
 			[
-				"app",
-				"config/app.php"
+				"prefe",
+				"app/Services/Preferences/Preferences.php"
 			],
 			[
-				"helpers.php",
-				"vendor/laravel/framework/src/Illuminate/Foundation/helpers.php"
-			],
-			[
-				"config",
-				"vendor/classpreloader/classpreloader/src/Config.php"
-			],
-			[
-				"composer",
+				"composer.js",
 				"composer.json"
 			],
 			[
-				"tools",
-				"app/Lib/Tools.php"
+				"datespec",
+				"tests/unit/Services/Generators/DateSpec.php"
+			],
+			[
+				"toolsser",
+				"app/Providers/ToolsServiceProvider.php"
+			],
+			[
+				"date",
+				"app/Services/Generators/Date.php"
+			],
+			[
+				"userspec",
+				"tests/unit/Services/Preferences/UserSpec.php"
+			],
+			[
+				"calendar",
+				"app/Lib/Calendar.php"
+			],
+			[
+				"calendarc",
+				"app/Http/Controllers/CalendarController.php"
 			],
 			[
 				"toolsserv",
 				"app/Providers/ToolsServiceProvider.php"
 			],
 			[
-				"date",
-				"app/Services/Formatters/Date.php"
+				"calen",
+				"app/Lib/Calendar.php"
 			],
 			[
-				"abstractentit",
-				"app/Http/Controllers/AbstractEntityController.php"
+				"data",
+				"config/database.php"
 			],
 			[
-				"formcompo",
-				"app/Http/ViewComposers/FormComposer.php"
+				"sessioninterface",
+				"vendor/laravel/framework/src/Illuminate/Session/SessionInterface.php"
 			],
 			[
-				"club",
-				"app/Models/Club.php"
+				"sessioninter",
+				"vendor/symfony/http-foundation/Session/SessionInterface.php"
 			],
 			[
-				"playercontr",
-				"app/Http/Controllers/PlayerController.php"
-			],
-			[
-				"clubcontr",
-				"app/Http/Controllers/ClubController.php"
-			],
-			[
-				"table.blade",
-				"extensions/disciplinary/resources/views/documents/table.blade.php"
-			],
-			[
-				"documents-conta",
-				"extensions/disciplinary/resources/views/cases/documents-container.blade.php"
-			],
-			[
-				"casescontr",
-				"extensions/disciplinary/src/Controllers/CasesController.php"
-			],
-			[
-				"validation",
-				"resources/lang/en/validation.php"
-			],
-			[
-				"validator",
-				"vendor/laravel/framework/src/Illuminate/Validation/Validator.php"
-			],
-			[
-				"formatter",
-				"app/Services/Formatters/Formatters.php"
-			],
-			[
-				"appservice",
-				"app/Providers/AppServiceProvider.php"
-			],
-			[
-				"toolsprov",
-				"app/Providers/ToolsServiceProvider.php"
-			],
-			[
-				"disciplinarcaseshe",
-				"extensions/disciplinary/src/Helpers/DisciplinaryCasesHelper.php"
-			],
-			[
-				"disciplinarycaseco",
-				"extensions/disciplinary/src/Controllers/CasesController.php"
-			],
-			[
-				"sanct",
-				"extensions/disciplinary/src/Controllers/SanctionsController.php"
-			],
-			[
-				"index-co",
-				"extensions/disciplinary/resources/views/sanctions/index-composed.blade.php"
-			],
-			[
-				"sanctions",
-				"extensions/disciplinary/src/Controllers/SanctionsController.php"
-			],
-			[
-				"index-create-",
-				"extensions/disciplinary/resources/views/cases/disqualifications/index-create-combo.blade.php"
-			],
-			[
-				"disqua",
-				"extensions/disciplinary/src/Controllers/DisqualificationsController.php"
-			],
-			[
-				"forms.",
-				"public/js/fmp/forms.js"
-			],
-			[
-				"index.blade",
-				"extensions/disciplinary/resources/views/cases/index.blade.php"
-			],
-			[
-				"view",
-				"config/view.php"
-			],
-			[
-				"bae.blade",
-				"resources/views/base/page.blade.php"
-			],
-			[
-				"",
-				"app/Providers/ToolsServiceProvider.php"
-			],
-			[
-				"toolspro",
-				"app/Providers/ToolsServiceProvider.php"
-			],
-			[
-				"tablecompo",
-				"app/Http/ViewComposers/TableComposer.php"
-			],
-			[
-				"form.blade",
-				"extensions/disciplinary/resources/views/cases/form.blade.php"
-			],
-			[
-				"disciplinarycasescon",
-				"extensions/disciplinary/src/Controllers/CasesController.php"
-			],
-			[
-				"datetime",
-				"resources/views/form/field/datetime.blade.php"
-			],
-			[
-				"main",
-				"public/css/main.css"
-			],
-			[
-				"request",
-				"app/Http/Requests/Request.php"
-			],
-			[
-				"player",
-				"app/Models/Person/Player.php"
-			],
-			[
-				"formcomposer",
-				"app/Http/ViewComposers/FormComposer.php"
-			],
-			[
-				"event",
-				"app/Models/Event.php"
-			],
-			[
-				"eventcommenttest",
-				"tests/Models/EventCommentTest.php"
-			],
-			[
-				"auditco",
-				"app/Http/Controllers/AuditController.php"
-			],
-			[
-				"formatters",
-				"app/Services/Formatters/Formatters.php"
-			],
-			[
-				"calendar",
-				"app/Http/Controllers/CalendarController.php"
-			],
-			[
-				"playercon",
-				"app/Http/Controllers/PlayerController.php"
-			],
-			[
-				"auditcontro",
-				"app/Http/Controllers/AuditController.php"
-			],
-			[
-				"app.php",
-				"config/app.php"
-			],
-			[
-				"eav",
-				"app/Models/Eav.php"
-			],
-			[
-				"users",
-				"app/Models/Permissions/Users.php"
-			],
-			[
-				"user",
-				"app/User.php"
-			],
-			[
-				"usercontro",
-				"app/Http/Controllers/UserController.php"
-			],
-			[
-				"_persons",
-				"database/migrations/2015_10_20_145617_create_club_persons_table.php"
-			],
-			[
-				"_person",
-				"database/migrations/2015_10_20_145617_create_club_persons_table.php"
-			],
-			[
-				"person",
-				"database/migrations/2015_07_21_130517_create_persons_table.php"
-			],
-			[
-				"team",
-				"app/Models/Team.php"
-			],
-			[
-				"abstractcontroller",
-				"app/Http/Controllers/AbstractEntityController.php"
-			],
-			[
-				"documentcontro",
-				"app/Http/Controllers/DocumentController.php"
-			],
-			[
-				"casecontroller",
-				"extensions/disciplinary/src/Controllers/CasesController.php"
-			],
-			[
-				"uploadcontro",
-				"app/Http/Controllers/UploadFileController.php"
-			],
-			[
-				"matchcontrol",
-				"app/Http/Controllers/MatchController.php"
-			],
-			[
-				"documentcontrol",
-				"app/Http/Controllers/DocumentController.php"
-			],
-			[
-				"permissi",
-				"config/permissions.php"
-			],
-			[
-				"groups",
-				"app/Models/Permissions/Groups.php"
-			],
-			[
-				"tables",
-				"public/js/fmp/tables.js"
-			],
-			[
-				"forms",
-				"public/js/fmp/forms.js"
-			],
-			[
-				"form",
-				"public/js/fmp/forms.js"
-			],
-			[
-				"comm",
-				"public/js/fmp/common.js"
-			],
-			[
-				"common",
-				"public/js/fmp/common.js"
-			],
-			[
-				"page",
-				"resources/views/base/page.blade.php"
-			],
-			[
-				"clubcon",
-				"app/Http/Controllers/ClubController.php"
-			],
-			[
-				"container",
-				"resources/views/modal/container.blade.php"
-			],
-			[
-				"casescontroller",
-				"extensions/disciplinary/src/Controllers/CasesController.php"
-			],
-			[
-				"teamcontro",
-				"app/Http/Controllers/TeamController.php"
+				"helpers",
+				"vendor/laravel/framework/src/Illuminate/Foundation/helpers.php"
 			],
 			[
 				"usercom",
 				"app/Http/ViewComposers/UserComposer.php"
 			],
 			[
-				"tables.js",
-				"public/js/fmp/tables.js"
-			],
-			[
-				"form.js",
-				"public/js/fmp/forms.js"
-			],
-			[
-				"databaseserv",
-				"vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php"
+				"collaborator",
+				"vendor/phpspec/phpspec/src/PhpSpec/Wrapper/Collaborator.php"
 			],
 			[
 				"container.php",
-				"vendor/laravel/framework/src/Illuminate/Container/Container.php"
+				"vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php"
 			],
 			[
-				"fmp-dis",
-				"config/fmp-disciplinary.php"
+				"sessionservice",
+				"vendor/laravel/framework/src/Illuminate/Session/SessionServiceProvider.php"
 			],
 			[
-				"composerservice",
-				"app/Providers/ComposerServiceProvider.php"
+				"session",
+				"config/session.php"
 			],
 			[
-				"datepicker",
-				"resources/assets/sass/vendors/_datepicker.scss"
+				"toolss",
+				"app/Providers/ToolsServiceProvider.php"
 			],
 			[
-				"userc",
+				"user",
+				"app/Services/Preferences/User.php"
+			],
+			[
+				"calendarcon",
+				"app/Http/Controllers/CalendarController.php"
+			],
+			[
+				"checker",
+				"app/Services/Duplicates/Checker.php"
+			],
+			[
+				"person",
+				"app/Models/Person.php"
+			],
+			[
+				"usercompo",
 				"app/Http/ViewComposers/UserComposer.php"
 			],
 			[
-				"usercontrol",
-				"app/Http/Controllers/UserController.php"
+				"application",
+				"app/Services/Preferences/Application.php"
 			],
 			[
-				"usercomposer",
-				"app/Http/ViewComposers/UserComposer.php"
+				"eavda",
+				"app/Models/EavDateValue.php"
 			],
 			[
-				"datet",
-				"resources/views/form/field/datetime.blade.php"
+				"statistics",
+				"app/Lib/Statistics.php"
 			],
 			[
-				"text.bl",
-				"resources/views/form/field/text.blade.php"
+				".env.ex",
+				".env.example"
 			],
 			[
-				"text",
-				"resources/views/reports/blocks/text.blade.php"
+				"dateformatte",
+				"tests/acceptance/DateFormatTest.php"
 			],
 			[
-				"carbon",
-				"vendor/nesbot/carbon/src/Carbon/Carbon.php"
+				"common.js",
+				"public/js/fmp/common.js"
 			],
 			[
-				"databasetrasn",
-				"vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTransactions.php"
+				"composer",
+				"composer.json"
 			],
 			[
-				"test",
-				"tests/TestCase.php"
+				"model",
+				"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php"
 			],
 			[
-				"tournamentcontr",
-				"app/Http/Controllers/TournamentController.php"
-			],
-			[
-				"tablecomposer",
-				"app/Http/ViewComposers/TableComposer.php"
-			],
-			[
-				"formcompose",
-				"app/Http/ViewComposers/FormComposer.php"
-			],
-			[
-				"e17c794e653a42a96214885a4c3d2c76a332a942",
-				"storage/framework/views/e17c794e653a42a96214885a4c3d2c76a332a942.php"
-			],
-			[
-				"tabs",
-				"resources/views/base/tabs.blade.php"
-			],
-			[
-				"52a12fe5cac2c4b930a2a6a350e80c1698c859df",
-				"storage/framework/views/52a12fe5cac2c4b930a2a6a350e80c1698c859df.php"
-			],
-			[
-				"date.",
+				"date.blade",
 				"resources/views/form/field/date.blade.php"
 			],
 			[
-				"abstractent",
-				"app/Http/Controllers/AbstractEntityController.php"
+				"datetes",
+				"tests/integration/Services/Formatters/DateTest.php"
 			],
 			[
-				"authenticateand",
-				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php"
+				"tablecompo",
+				"app/Http/ViewComposers/TableComposer.php"
 			],
 			[
-				"config.r",
-				"resources/assets/config.rb"
-			],
-			[
-				"site",
-				"app/Models/Site.php"
-			],
-			[
-				"part",
-				"app/Models/Participant.php"
-			],
-			[
-				"basecomposer",
-				"app/Http/ViewComposers/BaseComposer.php"
+				"playerco",
+				"app/Http/Controllers/PlayerController.php"
 			],
 			[
 				"eavattr",
 				"app/Models/EavAttribute.php"
 			],
 			[
-				"mapp",
-				"app/Models/Traits/Mappable.php"
+				"eav",
+				"app/Models/Eav.php"
 			],
 			[
-				"auditcontr",
+				"tableco",
+				"app/Http/ViewComposers/TableComposer.php"
+			],
+			[
+				"eavdate",
+				"app/Models/EavDatetimeValue.php"
+			],
+			[
+				"tablecomp",
+				"app/Http/ViewComposers/TableComposer.php"
+			],
+			[
+				"formcompo",
+				"app/Http/ViewComposers/FormComposer.php"
+			],
+			[
+				"formcom",
+				"app/Http/ViewComposers/FormComposer.php"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"fileviewf",
+				"vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php"
+			],
+			[
+				"bladecom",
+				"vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php"
+			],
+			[
+				"field.blade",
+				"resources/views/form/field.blade.php"
+			],
+			[
+				"datetest",
+				"tests/integration/Services/Formatters/DateTest.php"
+			],
+			[
+				"abstracten",
+				"app/Http/Controllers/AbstractEntityController.php"
+			],
+			[
+				"auditcon",
 				"app/Http/Controllers/AuditController.php"
 			],
 			[
-				"datetime.bla",
-				"resources/views/form/field/datetime.blade.php"
+				"matchdis",
+				"extensions/disciplinary/src/Helpers/MatchDisqualificationHelper.php"
 			],
 			[
-				".env",
-				".env"
+				"suspension-tea",
+				"resources/views/reports/blocks/suspension-team.blade.php"
 			],
 			[
-				"abstractentity",
+				"tourna",
+				"app/Models/Tournament/Tournament.php"
+			],
+			[
+				"abstracte",
 				"app/Http/Controllers/AbstractEntityController.php"
 			],
 			[
-				"auth.php",
-				"vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php"
+				"tournamentcon",
+				"app/Http/Controllers/TournamentController.php"
 			],
 			[
-				"mappable",
-				"app/Models/Traits/Mappable.php"
+				"gulpf",
+				"gulpfile.js"
 			],
 			[
-				"cache",
-				"config/cache.php"
+				"applicat",
+				"app/Services/Preferences/Application.php"
 			],
 			[
-				"abstrac",
+				"invalidtype",
+				"app/Services/Formatters/Exceptions/InvalidTypeForFormatter.php"
+			],
+			[
+				"test",
+				"app/Services/Traits/Test.php"
+			],
+			[
+				"phpspec",
+				"phpspec.yml"
+			],
+			[
+				"formatter",
+				"app/Services/Formatters/Formatters.php"
+			],
+			[
+				"organizationcon",
+				"app/Http/Controllers/OrganizationController.php"
+			],
+			[
+				"_ide",
+				"_ide_helper.php"
+			],
+			[
+				"chage_",
+				"database/migrations/2016_04_15_121412_change_venue_teams_start_and_end_fields_type_to_date.php"
+			],
+			[
+				"builder",
+				"vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php"
+			],
+			[
+				"datetime",
+				"app/Http/ViewComposers/Traits/DateTime.php"
+			],
+			[
+				"dateformat",
+				"tests/acceptance/DateFormatTest.php"
+			],
+			[
+				"teamcontr",
+				"app/Http/Controllers/TeamController.php"
+			],
+			[
+				"tablecom",
+				"app/Http/ViewComposers/TableComposer.php"
+			],
+			[
+				"clubcontr",
+				"app/Http/Controllers/ClubController.php"
+			],
+			[
+				"request",
+				"app/Http/Requests/Request.php"
+			],
+			[
+				"clubcon",
+				"app/Http/Controllers/ClubController.php"
+			],
+			[
+				"venucontr",
+				"app/Http/Controllers/VenueController.php"
+			],
+			[
+				"formatters",
+				"app/Services/Formatters/Formatters.php"
+			],
+			[
+				"disciplinarcase",
+				"extensions/disciplinary/src/Models/DisciplinaryCase.php"
+			],
+			[
+				"player",
+				"app/Models/Person/Player.php"
+			],
+			[
+				"playercontr",
+				"app/Http/Controllers/PlayerController.php"
+			],
+			[
+				"change_",
+				"database/migrations/2016_04_15_132900_change_venue_persons_start_and_end_fields_type_to_date.php"
+			],
+			[
+				"validator",
+				"vendor/laravel/framework/src/Illuminate/Validation/Validator.php"
+			],
+			[
+				"userdate",
+				"app/Validators/UserDateValidator.php"
+			],
+			[
+				"create.blade.",
+				"extensions/disciplinary/resources/views/sanctions/create.blade.php"
+			],
+			[
+				"disciplinarysan",
+				"extensions/disciplinary/src/Models/DisciplinarySanction.php"
+			],
+			[
+				"automated",
+				"tests/extensions/disciplinary/AutomatedCasesTest.php"
+			],
+			[
+				"updatehand",
+				"app/Lib/Fishnet/UpdateHandler.php"
+			],
+			[
+				"tools",
+				"app/Providers/ToolsServiceProvider.php"
+			],
+			[
+				"router",
+				"vendor/laravel/framework/src/Illuminate/Routing/Router.php"
+			],
+			[
+				"carbon",
+				"vendor/nesbot/carbon/src/Carbon/Carbon.php"
+			],
+			[
+				"matchcontroll",
+				"app/Http/Controllers/MatchController.php"
+			],
+			[
+				"matchevent",
+				"tests/Controllers/MatchEventsTest.php"
+			],
+			[
+				"reset.s",
+				"reset.sh"
+			],
+			[
+				"testcase",
+				"tests/TestCase.php"
+			],
+			[
+				"disciplinarycaseshelper",
+				"extensions/disciplinary/src/Helpers/DisciplinaryCasesHelper.php"
+			],
+			[
+				"create.blade.php",
+				"extensions/disciplinary/resources/views/sanctions/create.blade.php"
+			],
+			[
+				"appservice",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"matchevents",
+				"tests/Controllers/MatchEventsTest.php"
+			],
+			[
+				"databa",
+				"config/database.php"
+			],
+			[
+				"change_ven",
+				"database/migrations/2016_04_15_132900_change_venue_persons_start_and_end_fields_type_to_date.php"
+			],
+			[
+				"venue",
+				"app/Models/Venue.php"
+			],
+			[
+				"bluepr",
+				"vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php"
+			],
+			[
+				"composer.",
+				"composer.json"
+			],
+			[
+				"clubc",
+				"app/Http/Controllers/ClubController.php"
+			],
+			[
+				"teamcon",
+				"app/Http/Controllers/TeamController.php"
+			],
+			[
+				"generatorcon",
+				"app/Http/Controllers/Reports/GeneratorController.php"
+			],
+			[
+				"exception",
+				"vendor/phpunit/phpunit/src/Exception.php"
+			],
+			[
+				"except",
+				"vendor/league/flysystem/src/Exception.php"
+			],
+			[
+				"phasetour",
+				"app/Models/Tournament/PhaseTournamentCloning.php"
+			],
+			[
+				"comm",
+				"public/js/fmp/common.js"
+			],
+			[
+				"froms",
+				"public/js/fmp/forms.js"
+			],
+			[
+				"tablecompos",
+				"app/Http/ViewComposers/TableComposer.php"
+			],
+			[
+				"modelfac",
+				"database/factories/ModelFactory.php"
+			],
+			[
+				"importer",
+				"app/Services/Importers/Matches/Importer.php"
+			],
+			[
+				"scoutcontro",
+				"app/Http/Controllers/ScoutController.php"
+			],
+			[
+				"date.bla",
+				"resources/views/form/field/date.blade.php"
+			],
+			[
+				"club",
+				"app/Models/Club.php"
+			],
+			[
+				"teamcontro",
+				"app/Http/Controllers/TeamController.php"
+			],
+			[
+				"formatt",
+				"app/Services/Formatters/Formatters.php"
+			],
+			[
+				"makehttpreq",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/MakesHttpRequests.php"
+			],
+			[
+				"index.blade",
+				"extensions/disciplinary/resources/views/cases/index.blade.php"
+			],
+			[
+				"reportcon",
+				"app/Http/Controllers/Reports/ReportController.php"
+			],
+			[
+				"organiza",
+				"tests/OrganizationTest.php"
+			],
+			[
+				"store",
+				"vendor/laravel/framework/src/Illuminate/Session/Store.php"
+			],
+			[
+				"testca",
+				"tests/TestCase.php"
+			],
+			[
+				"main.css",
+				"public/css/main.css"
+			],
+			[
+				"auditc",
+				"app/Http/Controllers/AuditController.php"
+			],
+			[
+				"abstract",
 				"app/Http/Controllers/AbstractEntityController.php"
-			],
-			[
-				"frame",
-				"resources/views/base/frame.blade.php"
-			],
-			[
-				"composerserv",
-				"app/Providers/ComposerServiceProvider.php"
-			],
-			[
-				"usercon",
-				"app/Http/Controllers/UserController.php"
-			],
-			[
-				"elements",
-				"resources/views/base/elements.blade.php"
-			],
-			[
-				"date_form",
-				"database/migrations/2016_03_10_155725_add_date_format_and_date_format_separator_to_users_table.php"
-			],
-			[
-				"date_for",
-				"database/migrations/2016_03_10_155725_add_date_format_and_date_format_separator_to_users_table.php"
-			],
-			[
-				"users_tab",
-				"database/migrations/2015_11_09_145844_alter_users_table.php"
-			],
-			[
-				"phasesee",
-				"database/seeds/PhaseTableSeeder.php"
 			],
 			[
 				"usercontr",
 				"app/Http/Controllers/UserController.php"
 			],
 			[
-				".en",
-				".env"
-			],
-			[
-				"initi",
-				"scripts/initialize.sh"
-			],
-			[
-				"clubtable",
-				"database/seeds/ClubTableSeeder.php"
-			],
-			[
-				"gettext",
-				"app/Console/Commands/GettextBuild.php"
+				"phpunit",
+				"phpunit.xml"
 			]
 		],
 		"width": 0.0
@@ -1693,9 +1914,53 @@
 	"select_symbol":
 	{
 		"height": 354.0,
-		"last_filter": "singleton",
+		"last_filter": "array_get",
 		"selected_items":
 		[
+			[
+				"array_get",
+				"array_get"
+			],
+			[
+				"route",
+				"route"
+			],
+			[
+				"config",
+				"config"
+			],
+			[
+				"session",
+				"session"
+			],
+			[
+				"TestCase",
+				"TestCase"
+			],
+			[
+				"model",
+				"model"
+			],
+			[
+				"checkdate",
+				"checkDate"
+			],
+			[
+				"attach",
+				"attach"
+			],
+			[
+				"withSession",
+				"withSession"
+			],
+			[
+				"actingAs",
+				"actingAs"
+			],
+			[
+				"seeJsonStructure",
+				"seeJsonStructure"
+			],
 			[
 				"singleton",
 				"singleton"
