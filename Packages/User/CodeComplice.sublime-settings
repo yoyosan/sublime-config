@@ -9,7 +9,7 @@
        true - Enabled (the default).
        false - Disabled.
     */
-    "codeintel": false,
+    "codeintel": true,
 
     /* path to codeintel database */
     "codeintel_database_dir": "~/.codeintel",
@@ -19,7 +19,7 @@
     */
     "codeintel_enabled_languages":
     [
-       "JavaScript", "SCSS", "Python", "HTML",
+       "JavaScript", "SCSS", "Python", "HTML", "Go",
        "Ruby", "Python3", "XML", "Sass", "HTML5", "Perl", "CSS",
        "Twig", "Less", "Node.js", "TemplateToolkit", "PHP"
     ],
@@ -55,16 +55,29 @@
        "popup" - Uses Autocomplete popup for tooltips.
        "panel" - Uses the output panel for tooltips.
        "status" - Uses the status bar for tooltips (was the default).
+       "tooltip" - Uses new-style HTML tooltips (requires ST3 Build 3070 or later).
     */
     "codeintel_tooltips": "popup",
 
+    /*
+      CSS file for "tooltip"-type tooltips
+
+      File path is relative to Packages directory. Custom styling should be
+      placed under your "User" directory.
+
+      Built-in styles:
+      "CodeComplice/css/light.css" - Style to work with light themes
+      "CodeComplice/css/dark.css" - Style to work with dark themes
+      "CodeComplice/css/default.css" - Default style
+     */
+    "codeintel_tooltip_css_file": "CodeComplice/css/dark.css",
 
     /*
        "buffer" - add word completions from current view
        "all" - add word completions from all views from active window
        "none" - do not add word completions
     */
-    "codeintel_word_completions": "buffer",
+    "codeintel_word_completions": "all",
 
     /*
        Insert functions snippets.
@@ -76,7 +89,7 @@
        ex: ["list/of","/path/to/exclude"]
        (Currently only working for JavaScript and PHP)
     */
-    "codeintel_scan_exclude_dir":["node_modules"],
+    "codeintel_scan_exclude_dir":[],
 
     /* Code Scanning: Controls how the Code Intelligence system scans your source code files. */
 
@@ -122,16 +135,25 @@
                 "/Applications/Sublime Text.app/Contents/MacOS",
                 "~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
                 "~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
-            ],
-            "codeintel_scan_files_in_project": true,
-            "codeintel_selected_catalogs": []
+            ]
+        },
+        "Go": {
+            "env": {
+                "GOPATH": "$GOPATH"
+            },
+            "go": "/usr/local/go/bin/go",
+            "gocode": "~/gocode/bin/gocode",
+            "godef": "~/gocode/bin/godef"
         },
         "JavaScript": {
             "codeintel_scan_extra_dir": [],
             "codeintel_scan_exclude_dir":["/build/", "/min/"],
             "codeintel_scan_files_in_project": false,
-            "codeintel_max_recursive_dir_depth": 2,
             "codeintel_selected_catalogs": ["jQuery"]
+        },
+        "Ruby": {
+            "Ruby": "/usr/bin/ruby",
+            "codeintel_selected_catalogs": ["rails"]
         },
         "PHP": {
             "php": "/usr/bin/php",
