@@ -61,6 +61,7 @@
 	"font_size": 15,
 	"ignored_packages":
 	[
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
