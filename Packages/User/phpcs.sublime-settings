@@ -2,7 +2,7 @@
     // Plugin settings
 
     // Turn the debug output on/off
-    "show_debug": false,
+    "show_debug": true,
 
     // Which file types (file extensions), do you want the plugin to
     // execute for
@@ -13,10 +13,10 @@
     "extensions_to_blacklist": [],
 
     // Execute the sniffer on file save
-    "phpcs_execute_on_save": true,
+    "phpcs_execute_on_save": false,
 
     // Show the error list after save.
-    "phpcs_show_errors_on_save": true,
+    "phpcs_show_errors_on_save": false,
 
     // Show the errors in the gutter
     "phpcs_show_gutter_marks": true,
@@ -57,11 +57,11 @@
     "phpcs_sniffer_run": true,
 
     // Execute the sniffer on file save
-    "phpcs_command_on_save": true,
+    "phpcs_command_on_save": false,
 
     // It seems python/sublime cannot always find the phpcs application
     // If empty, then use PATH version of phpcs, else use the set value
-    "phpcs_executable_path": "",
+    "phpcs_executable_path": "/home/mpalade/.composer/vendor/bin/phpcs",
 
     // Additional arguments you can specify into the application
     //
@@ -86,11 +86,11 @@
     "php_cs_fixer_show_quick_panel": false,
 
     // Path to where you have the php-cs-fixer installed
-    "php_cs_fixer_executable_path": "",
+    "php_cs_fixer_executable_path": "/home/mpalade/.composer/vendor/bin/php-cs-fixer",
 
     // Additional arguments you can specify into the application
     "php_cs_fixer_additional_args": {
-
+        "--level": "psr2"
     },
 
 
@@ -104,7 +104,7 @@
     "phpcbf_show_quick_panel": false,
 
     // Path to where you have the phpcbf installed
-    "phpcbf_executable_path": "",
+    "phpcbf_executable_path": "/home/mpalade/.composer/vendor/bin/phpcbf",
 
     // Additional arguments you can specify into the application
     //
@@ -114,7 +114,7 @@
     // }
     "phpcbf_additional_args": {
         "--standard": "PSR2",
-        "-n": ""
+       "-n": ""
     },
 
 
@@ -122,10 +122,10 @@
     // PHP Linter settings
 
     // Are we going to run php -l over the file?
-    "phpcs_linter_run": true,
+    "phpcs_linter_run": false,
 
     // Execute the linter on file save
-    "phpcs_linter_command_on_save": true,
+    "phpcs_linter_command_on_save": false,
 
     // It seems python/sublime cannot always find the php application
     // If empty, then use PATH version of php, else use the set value
@@ -139,14 +139,14 @@
     // PHP Mess Detector settings
 
     // Execute phpmd
-    "phpmd_run": false,
+    "phpmd_run": true,
 
     // Execute the phpmd on file save
-    "phpmd_command_on_save": true,
+    "phpmd_command_on_save": false,
 
     // It seems python/sublime cannot always find the phpmd application
     // If empty, then use PATH version of phpmd, else use the set value
-    "phpmd_executable_path": "",
+    "phpmd_executable_path": "/home/mpalade/.composer/vendor/bin/phpmd",
 
     // Additional arguments you can specify into the application
     //
@@ -155,21 +155,21 @@
     //     "codesize,unusedcode"
     // }
     "phpmd_additional_args": {
-        "codesize,unusedcode,naming": ""
+        "cleancode,codesize,controversial,design,naming,unusedcode": ""
     },
 
 
     // PHP Scheck settings
 
     // Execute scheck
-    "scheck_run": false,
+    "scheck_run": true,
 
     // Execute the scheck on file save
     "scheck_command_on_save": false,
 
     // It seems python/sublime cannot always find the scheck application
     // If empty, then use PATH version of scheck, else use the set value
-    "scheck_executable_path": "",
+    "scheck_executable_path": "/usr/local/bin/pfff",
 
     // Additional arguments you can specify into the application
     //

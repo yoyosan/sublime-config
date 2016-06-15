@@ -45,11 +45,9 @@
 		"PHP Getters and Setters",
 		"Phpcs",
 		"PhpDoc",
-		"phpfmt",
 		"PHPUnit Completions",
 		"Pretty JSON",
 		"Pretty YAML",
-		"Scratchpad",
 		"SCSS",
 		"SimplePHPUnit",
 		"SublimeLinter",
@@ -59,6 +57,7 @@
 		"SublimeLinter-phpcs",
 		"SublimeREPL",
 		"SyncedSideBar",
-		"Terminal"
+		"Terminal",
+		"TrailingSpaces"
 	]
 }

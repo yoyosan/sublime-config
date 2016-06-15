@@ -25,5 +25,6 @@
 
     { "keys": ["shift+ctrl+super+p"], "command": "phpcs_show_previous_errors" },
     { "keys": ["shift+ctrl+super+s"], "command": "phpcs_sniff_this_file" },
-    { "keys": ["shift+ctrl+super+n"], "command": "phpcs_goto_next_error" }
+    { "keys": ["shift+ctrl+super+n"], "command": "phpcs_goto_next_error" },
+    { "keys": ["f11"], "command": "phpcs_fix_this_file", "args": {"tool": "CodeBeautifier"}},
 ]

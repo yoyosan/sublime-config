@@ -1,5 +1,6 @@
 {
 	"format_on_save": false,
+    "engine": "/home/mpalade/.composer/vendor/bin/php-cs-fixer",
 	"php_bin": "php",
 	"psr1": true,
 	"psr1_naming": false,
