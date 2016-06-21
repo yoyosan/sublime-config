@@ -90,7 +90,7 @@
 
     // Additional arguments you can specify into the application
     "php_cs_fixer_additional_args": {
-        "--config-file": "/home/mpalade/Work/btd/core-system/.php_cs"
+        "--config-file": ".php_cs"
     },
 
 
