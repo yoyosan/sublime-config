@@ -1,5 +1,5 @@
 {
-	"always_show_minimap_viewport": false,
+	"always_show_minimap_viewport": true,
 	"binary_file_patterns":
 	[
 		"generated/*",
@@ -76,7 +76,6 @@
 	[
 		120
 	],
-	"theme": "Material-Theme.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"use_tab_stops": true
+	"tab_size": 4,
+	"theme": "Material-Theme.sublime-theme"
 }

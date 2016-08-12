@@ -1,7 +1,11 @@
 <snippet>
     <content><![CDATA[
-class ${1}Test extends TestCase
+use Illuminate\Foundation\Testing\DatabaseTransactions;
+
+class ${1}Test extends \TestCase
 {
+    use DatabaseTransactions;
+
     ${2}
 
     public function setUp()
