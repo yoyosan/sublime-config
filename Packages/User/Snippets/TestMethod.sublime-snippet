@@ -1,7 +1,10 @@
 <snippet>
     <content><![CDATA[
-/** @test */
-public function ${1}()
+/**
+ * @test
+ * @group ${1}
+ */
+public function ${2}()
 {
     ${3}
 }
