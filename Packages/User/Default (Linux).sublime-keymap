@@ -30,4 +30,5 @@
 
     { "keys": ["ctrl+alt+up"], "command": "select_lines", "args": {"forward": false} },
     { "keys": ["ctrl+alt+down"], "command": "select_lines", "args": {"forward": true} },
+    { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
 ]
