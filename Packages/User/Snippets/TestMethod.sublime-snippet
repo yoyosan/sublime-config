@@ -1,12 +1,9 @@
 <snippet>
     <content><![CDATA[
-/**
- * @test
- * @group ${1}
- */
-public function ${2}()
+/** @test */
+public function ${1}()
 {
-    ${3}
+    ${2}
 }
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

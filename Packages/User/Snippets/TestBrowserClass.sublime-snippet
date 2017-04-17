@@ -4,9 +4,9 @@ namespace Tests\Browser;
 
 use Tests\DuskTestCase;
 
-class ${1}Test extends DuskTestCase
+class ${TM_FILENAME/(\w+)\.php/\1/} extends DuskTestCase
 {
-    ${2}
+    ${1}
 }
 
 ]]></content>
