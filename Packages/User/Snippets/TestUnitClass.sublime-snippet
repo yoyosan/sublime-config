@@ -1,9 +1,14 @@
 <snippet>
     <content><![CDATA[
-class ${1}Test extends PHPUnit_Framework_TestCase
+namespace Tests\Unit;
+
+use Tests\TestCase;
+
+class ${1}Test extends TestCase
 {
     ${2}
 }
+
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>testunit</tabTrigger>

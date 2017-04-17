@@ -1,15 +1,13 @@
 <snippet>
     <content><![CDATA[
-class ${1}Test extends \TestCase
+
+namespace Tests\Feature;
+
+use Tests\TestCase;
+
+class ${1}Test extends TestCase
 {
     ${2}
-
-    public function setUp()
-    {
-        ${3}
-    }
-
-    ${4}
 }
 
 ]]></content>

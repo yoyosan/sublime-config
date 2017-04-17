@@ -1,26 +1,17 @@
 <snippet>
     <content><![CDATA[
-use Illuminate\Foundation\Testing\DatabaseTransactions;
+namespace Tests\Browser;
 
-class ${1}Test extends \TestCase
+use Tests\DuskTestCase;
+
+class ${1}Test extends DuskTestCase
 {
-    use DatabaseTransactions;
-
     ${2}
-
-    public function setUp()
-    {
-        parent::setUp();
-
-        ${3}
-    }
-
-    ${4}
 }
 
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>tcls</tabTrigger>
+    <tabTrigger>testbro</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
 </snippet>
