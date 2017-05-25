@@ -71,6 +71,7 @@
 		"SublimeREPL",
 		"SyncedSideBar",
 		"Terminal",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"Vue Syntax Highlight"
 	]
 }
