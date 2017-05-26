@@ -61,7 +61,7 @@
 
     // It seems python/sublime cannot always find the phpcs application
     // If empty, then use PATH version of phpcs, else use the set value
-    "phpcs_executable_path": "/home/mpalade/.composer/vendor/bin/phpcs",
+    "phpcs_executable_path": ".composer/vendor/bin/phpcs",
 
     // Additional arguments you can specify into the application
     //
@@ -86,13 +86,12 @@
     "php_cs_fixer_show_quick_panel": false,
 
     // Path to where you have the php-cs-fixer installed
-    "php_cs_fixer_executable_path": "/home/mpalade/.composer/vendor/bin/php-cs-fixer",
+    "php_cs_fixer_executable_path": ".composer/vendor/bin/php-cs-fixer",
 
     // Additional arguments you can specify into the application
     "php_cs_fixer_additional_args": {
-        "--level": "psr2"
+        "--config-file": ".php_cs"
     },
-
 
 
     // phpcbf settings
@@ -104,7 +103,7 @@
     "phpcbf_show_quick_panel": false,
 
     // Path to where you have the phpcbf installed
-    "phpcbf_executable_path": "/home/mpalade/.composer/vendor/bin/phpcbf",
+    "phpcbf_executable_path": ".composer/vendor/bin/phpcbf",
 
     // Additional arguments you can specify into the application
     //
@@ -146,7 +145,7 @@
 
     // It seems python/sublime cannot always find the phpmd application
     // If empty, then use PATH version of phpmd, else use the set value
-    "phpmd_executable_path": "/home/mpalade/.composer/vendor/bin/phpmd",
+    "phpmd_executable_path": ".composer/vendor/bin/phpmd",
 
     // Additional arguments you can specify into the application
     //
@@ -179,6 +178,6 @@
     //  "-strict" : ""
     //}
     "scheck_additional_args": {
-        "-strict" : ""
+        "-parse_php": ""
     }
 }

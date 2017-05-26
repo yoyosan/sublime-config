@@ -1,5 +1,5 @@
 {
-	"always_show_minimap_viewport": false,
+	"always_show_minimap_viewport": true,
 	"binary_file_patterns":
 	[
 		"generated/*",
@@ -21,6 +21,7 @@
 	],
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Facebook (SL).tmTheme",
+	"dpi_scale": 1.0,
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -57,8 +58,10 @@
 	"font_face": "Fira Code",
 	"font_options":
 	[
+		"gray_antialias",
+		"subpixel_antialias"
 	],
-	"font_size": 15,
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -71,12 +74,18 @@
 	"line_numbers": false,
 	"line_padding_bottom": 5,
 	"line_padding_top": 5,
+	"material_theme_appbar_charcoal": true,
+	"material_theme_big_fileicons": true,
+	"material_theme_bold_tab": true,
+	"material_theme_disable_fileicons": false,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tree_headings": true,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
 		120
 	],
+	"tab_size": 4,
 	"theme": "Material-Theme.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"use_tab_stops": true
+	"translate_tabs_to_spaces": true
 }

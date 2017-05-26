@@ -1,20 +1,17 @@
 <snippet>
     <content><![CDATA[
-class ${1}Test extends TestCase
-{
-    ${2}
+namespace Tests\Browser;
 
-    public function setUp()
-    {
-        ${3}
-    }
-    
-    ${4}
+use Tests\DuskTestCase;
+
+class ${TM_FILENAME/(\w+)\.php/\1/} extends DuskTestCase
+{
+    ${1}
 }
 
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>testfunc</tabTrigger>
+    <tabTrigger>testbro</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
 </snippet>

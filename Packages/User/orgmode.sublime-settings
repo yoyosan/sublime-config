@@ -1,3 +1,6 @@
 {
-    "color_scheme": "Packages/User/SublimeLinter/Facebook (SL).tmTheme"
+    "color_scheme": "Packages/User/SublimeLinter/Facebook (SL).tmTheme",
+    "tab_size": 2,
+    "line_numbers": false,
+    "orgmode.open_link.resolver.jira.url": "https://jira.btd.de/browse/%s",
 }
