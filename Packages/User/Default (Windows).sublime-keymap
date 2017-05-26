@@ -5,18 +5,6 @@
     { "keys": ["f4"], "command": "import_namespace" },
     { "keys": ["shift+f12"], "command": "goto_definition_scope" },
     { "keys": ["f7"], "command": "insert_php_constructor_property" },
-    // simplePhpunit
-    // {
-    //     "keys": ["ctrl+alt+t"],
-    //     "command": "simple_php_unit"
-    // },
-    {
-        "keys": ["super+ctrl+alt+t"],
-        "command": "simple_php_unit",
-        "args": {
-            "test_current_file": true
-        }
-    },
     { "keys": ["ctrl+alt+h"], "command": "docphp_search", "args": {"at_point": false}},
     { "keys": ["ctrl+alt+s"]},
 ]
