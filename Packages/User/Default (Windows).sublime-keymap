@@ -5,6 +5,21 @@
     { "keys": ["f4"], "command": "import_namespace" },
     { "keys": ["shift+f12"], "command": "goto_definition_scope" },
     { "keys": ["f7"], "command": "insert_php_constructor_property" },
+
+    { "keys": ["ctrl+super+g"], "command": "find_all_under" },
+    { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
+    { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+
+    { "keys": ["alt+shift+up"], "command": "select_lines", "args": {"forward": false} },
+    { "keys": ["alt+shift+down"], "command": "select_lines", "args": {"forward": true} },
+    { "keys": ["ctrl+alt+up"], "command": "select_lines", "args": {"forward": false} },
+    { "keys": ["ctrl+alt+down"], "command": "select_lines", "args": {"forward": true} },
+
+    { "keys": ["shift+ctrl+super+p"], "command": "phpcs_show_previous_errors" },
+    { "keys": ["shift+ctrl+super+s"], "command": "phpcs_sniff_this_file" },
+    { "keys": ["shift+ctrl+super+n"], "command": "phpcs_goto_next_error" },
+    { "keys": ["f11"], "command": "phpcs_fix_this_file", "args": {"tool": "Fixer"}},
+
     { "keys": ["ctrl+alt+h"], "command": "docphp_search", "args": {"at_point": false}},
     { "keys": ["ctrl+alt+s"]},
 ]
