@@ -21,5 +21,8 @@
     { "keys": ["f11"], "command": "phpcs_fix_this_file", "args": {"tool": "Fixer"}},
 
     { "keys": ["ctrl+alt+h"], "command": "docphp_search", "args": {"at_point": false}},
-    { "keys": ["ctrl+alt+s"]},
+
+    { "keys": ["ctrl+t"], "command": "run_single_phpunit_test"},
+    { "keys": ["ctrl+shift+t"], "command": "run_phpunit_test"},
+    { "keys": ["ctrl+shift+alt+t"], "command": "run_all_phpunit_tests"},
 ]

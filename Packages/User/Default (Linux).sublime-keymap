@@ -19,4 +19,8 @@
     { "keys": ["shift+ctrl+super+s"], "command": "phpcs_sniff_this_file" },
     { "keys": ["shift+ctrl+super+n"], "command": "phpcs_goto_next_error" },
     { "keys": ["f11"], "command": "phpcs_fix_this_file", "args": {"tool": "Fixer"}},
+
+    { "keys": ["ctrl+t"], "command": "run_single_phpunit_test"},
+    { "keys": ["ctrl+shift+t"], "command": "run_phpunit_test"},
+    { "keys": ["ctrl+shift+alt+t"], "command": "run_all_phpunit_tests"},
 ]
