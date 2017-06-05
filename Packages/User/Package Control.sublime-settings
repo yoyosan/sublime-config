@@ -27,6 +27,7 @@
 		"DocPHPManualer",
 		"EditorConfig",
 		"Emmet",
+		"Expand Selection to Quotes",
 		"Fold Comments",
 		"Function Name Display",
 		"Gherkin (Cucumber) Formatter",
@@ -70,6 +71,7 @@
 		"SublimeREPL",
 		"SyncedSideBar",
 		"Terminal",
+		"Theme - Cobalt2",
 		"TrailingSpaces",
 		"Vue Syntax Highlight"
 	]

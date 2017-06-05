@@ -3,10 +3,10 @@
 	[
 		"thor",
 		"jbuilder",
-		"simplecov",
-		"rb",
 		"rabl",
+		"rb",
 		"podspec",
-		"rake"
+		"rake",
+		"simplecov"
 	]
 }

@@ -20,7 +20,11 @@
 		"*.zip"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Facebook (SL).tmTheme",
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 3,
+	"caret_style": "solid",
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
 	"dpi_scale": 1.0,
 	"file_exclude_patterns":
 	[
@@ -71,7 +75,7 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"line_numbers": false,
+	"line_numbers": true,
 	"line_padding_bottom": 5,
 	"line_padding_top": 5,
 	"material_theme_appbar_charcoal": true,
@@ -86,6 +90,6 @@
 		120
 	],
 	"tab_size": 4,
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "Cobalt2.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
