@@ -9,4 +9,5 @@ public function it_${1}()
     <tabTrigger>spec</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
+    <description>Add a PHPSpec test method.</description>
 </snippet>

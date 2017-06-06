@@ -6,4 +6,5 @@ dump(\DB::table('${1}')->select()->get());
 	<tabTrigger>dbdump</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
+    <description>Dump a database table contents.</description>
 </snippet>

@@ -1,14 +1,18 @@
 <snippet>
     <content><![CDATA[
-\$this->specify(
-    '${1:sample scenario}',
-    function () {
-        ${3}
-    }
-);
+namespace Tests\Browser;
+
+use Tests\DuskTestCase;
+
+class ${TM_FILENAME/(\w+)\.php/\1/} extends DuskTestCase
+{
+    ${1}
+}
+
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>specify</tabTrigger>
+    <tabTrigger>testbro</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
+    <description>Skeleton for a browser test using Dusk.</description>
 </snippet>

@@ -6,4 +6,5 @@ dump(__METHOD__ . ':' . __LINE__, ${1});
 	<tabTrigger>dmp</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
+    <description>Dump an expression.</description>
 </snippet>

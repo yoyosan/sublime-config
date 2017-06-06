@@ -1,9 +1,18 @@
 <snippet>
     <content><![CDATA[
-factory(${1})->create(${2});
+namespace Tests\Unit;
+
+use Tests\TestCase;
+
+class ${TM_FILENAME/(\w+)\.php/\1/} extends TestCase
+{
+    ${1}
+}
+
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>fact</tabTrigger>
+    <tabTrigger>testunit</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
+    <description>Skeleton for a unit test.</description>
 </snippet>
