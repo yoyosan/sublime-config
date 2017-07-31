@@ -25,6 +25,7 @@
 	"caret_extra_width": 3,
 	"caret_style": "solid",
 	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"detect_indentation": false,
 	"dpi_scale": 1.0,
 	"fade_fold_buttons": false,
 	"file_exclude_patterns":
@@ -66,7 +67,7 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 14,
+    "font_size": 14,
 	"ignored_packages":
 	[
 		"Vintage"
