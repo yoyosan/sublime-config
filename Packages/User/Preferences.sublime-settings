@@ -27,6 +27,7 @@
 	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
 	"detect_indentation": false,
 	"dpi_scale": 1.0,
+	"default_line_ending": "unix",
 	"fade_fold_buttons": false,
 	"file_exclude_patterns":
 	[
