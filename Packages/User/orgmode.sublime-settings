@@ -4,4 +4,6 @@
     "line_numbers": false,
     "font_size": 13,
     "orgmode.open_link.resolver.jira.url": "https://jira.btd.de/browse/%s",
+    "line_padding_bottom": 2,
+    "line_padding_top": 2,
 }
