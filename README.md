@@ -16,7 +16,7 @@ git clone git@github.com:yoyosan/sublime-config.git .
 
 ```
 cd ~/.config/sublime-text-3
-rm -rf .
+rm -rf *
 git clone git@github.com:yoyosan/sublime-config.git .
 ```
 
